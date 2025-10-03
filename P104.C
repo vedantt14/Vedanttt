@@ -1,0 +1,7 @@
+// 4. Divide two numbers
+#include <stdio.h>
+int main() {
+    float a = 10, b = 3;
+    printf("Quotient = %.2f", a / b);
+    return 0;
+}
